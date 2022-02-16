@@ -18,3 +18,4 @@ bin-release/
 # information for Eclipse / Flash Builder.
 /.vs/ProjectSettings.json
 /.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
