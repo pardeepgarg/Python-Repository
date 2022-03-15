@@ -21,3 +21,6 @@ bin-release/
 /.vs/slnx.sqlite-journal
 
 mylogs.log
+
+*.log                        
+  --it will ignore all log files
