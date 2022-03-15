@@ -19,3 +19,5 @@ bin-release/
 /.vs/ProjectSettings.json
 /.vs/slnx.sqlite
 /.vs/slnx.sqlite-journal
+
+mylogs.log
